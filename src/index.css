@@ -4,6 +4,11 @@
     box-sizing: border-box;
 }
 
+html{
+    scroll-snap-type: y mandatory;
+    scroll-behavior: smooth;
+}
+
 body{
     background: linear-gradient(#12071f, #2f204e);
     color: #fff;
@@ -22,7 +27,11 @@ a{
     padding-right: 16px;
     margin-left: auto;
     margin-right: auto;
-    background-color: rebeccapurple;
+}
+
+section{
+    height: 100vh;
+    scroll-snap-align: center;
 }
 
 @media (min-width: 640px){
