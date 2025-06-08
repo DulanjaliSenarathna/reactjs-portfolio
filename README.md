@@ -2,7 +2,7 @@
 
 Welcome to my **ReactJS Portfolio Website** — a dynamic, modern, and visually engaging portfolio to showcase my skills and projects. Built using **React Three Fiber**, **Three.js**, and **motion animations**, this site is fully responsive and optimized for performance and SEO.
 
-> ✨ Live Site: [https://dulanjali.vercel.app](https://dulanjali.vercel.app)
+> ✨ Live Site: [https://reactjs-portfolio-ten.vercel.app](https://reactjs-portfolio-ten.vercel.app/)
 
 ---
 
@@ -16,7 +16,6 @@ Welcome to my **ReactJS Portfolio Website** — a dynamic, modern, and visually 
 - [Deployment](#-deployment)
 - [SEO & Performance](#-seo--performance)
 - [Contact](#-contact)
-- [License](#-license)
 
 ---
 
