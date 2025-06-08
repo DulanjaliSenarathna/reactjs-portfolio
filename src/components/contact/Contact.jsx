@@ -2,6 +2,7 @@ import React, { useRef, useState } from 'react'
 import './contact.css'
 import emailjs, { init } from '@emailjs/browser';
 import { motion, useInView } from 'motion/react';
+import ContactSvg from './ContactSvg';
 
 const listVariants ={
   initial: {
@@ -75,7 +76,7 @@ const Contact = () => {
           {error && <span>Something went wrong, please try again.</span>}
         </motion.form>
       </div>
-      <div className="cSection">SVG</div>
+      <div className="cSection"><ContactSvg/></div>
     </div>
   )
 }
